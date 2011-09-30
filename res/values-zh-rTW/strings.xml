@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">DSP 總管</string>
-    <string name="dB">+0 dB</string>
     <string name="select_configuration_title">選擇要編輯的設置</string>
     <string name="headset_title">有線耳機</string>
     <string name="speaker_title">手機喇叭</string>
@@ -20,6 +19,7 @@
     <string name="pref_equalizer_summary_off">已停用等化器</string>
     <string name="pref_equalizer_enable">使用等化器</string>
     <string name="pref_equalizer_preset_title">選擇設置</string>
+    <string name="pref_equalizer_loudness_title">響度補償</string>
     <string name="pref_bassboost_title">低音強化</string>
     <string name="pref_bassboost_summary_on">已啟用低音強化</string>
     <string name="pref_bassboost_summary_off">已停用低音強化</string>
@@ -45,4 +45,5 @@
     <string name="eq_preset_treble_reducer">高音弱化</string>
     <string name="eq_preset_vocal_booster">人聲強化</string>
     <string name="eq_preset_custom">自訂</string>
+
 </resources>
